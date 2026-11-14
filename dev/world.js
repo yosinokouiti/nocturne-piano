@@ -1,5 +1,5 @@
 import * as T from './vendor/three.module.min.js';
-import {CatMind,clamp,STATIONS} from './cat.js';
+import {CatMind,clamp,STATIONS} from './cat.js?v=0.2';
 const mix=(a,b,t)=>a+(b-a)*t;
 const sphereGeo=new T.SphereGeometry(1,20,14);
 function mesh(parent,mat,pos,scale,geo=sphereGeo){let m=new T.Mesh(geo,mat);m.position.set(...pos);m.scale.set(...scale);m.castShadow=true;m.receiveShadow=true;parent.add(m);return m}

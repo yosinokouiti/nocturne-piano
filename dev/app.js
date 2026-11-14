@@ -19,7 +19,7 @@ $('garden-mode').onclick=()=>mode(false);$('listen-mode').onclick=()=>mode(true)
 $('call-cat').onclick=()=>{world?.mind.call({x:0,z:2});caption('ルナを呼んだ。気づくと、小さな足取りで近づいてくる。')};$('pet-cat').onclick=()=>{world?.mind.pet();caption('ルナをなでた。少しずつ、安心してくれている。')};
 function catCommand(action){if(!world)return;world.command(action);rememberCat();$('world').scrollIntoView({block:'start',behavior:'auto'})}
 document.querySelectorAll('[data-cat-action]').forEach(button=>button.onclick=()=>catCommand(button.dataset.catAction));$('stop-cat').onclick=()=>catCommand('stop');
-import('./world.js').then(({World})=>{try{world=new World($('world'),caption);try{let memory=JSON.parse(localStorage.getItem('nocturne-next-cat')||'null');world.mind.restore(memory)}catch{}quality();document.querySelectorAll('[data-cat-action],#stop-cat').forEach(b=>b.disabled=false)}catch(e){fallback(e)}}).catch(fallback);
+import('./world.js?v=0.2').then(({World})=>{try{world=new World($('world'),caption);try{let memory=JSON.parse(localStorage.getItem('nocturne-next-cat')||'null');world.mind.restore(memory)}catch{}quality();document.querySelectorAll('[data-cat-action],#stop-cat').forEach(b=>b.disabled=false)}catch(e){fallback(e)}}).catch(fallback);
 function fallback(e){worldFailed=true;$('world-fallback').hidden=false;$('call-cat').disabled=true;$('pet-cat').disabled=true;caption('3Dを利用できないため、音楽とパズルで遊べます。');console.warn('World unavailable:',e.message)}
 const match={running:false,paused:false,player:new Board(1),cpu:new Board(1),elapsed:0,cpuThink:0,cpuPath:[],cpuActive:null,seed:0,result:null};
 let soft=false,heldDirection=0,repeatDelay=0,lastInput=0,touch=null;
