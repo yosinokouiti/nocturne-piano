@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {Board} from '../dev/core.js';
+test('receiving garbage does not change the shared pair stream',()=>{let a=new Board(42),b=new Board(42);a.pending=7;a.active=null;a.phase='settle';a.delay=0;a.update(.1);for(let i=0;i<50;i++)assert.deepEqual(a.pair(),b.pair())});
+test('nuisance is limited to twelve per turn, remainder carries over',()=>{let b=new Board(42);b.active=null;b.phase='settle';b.delay=0;b.pending=20;b.update(.1);assert.equal(b.pending,8);b.update(.5);assert.equal(b.pending,8);assert.equal(b.phase,'fall');b.drop();for(let i=0;i<20&&b.pending===8;i++)b.update(.1);assert.equal(b.pending,0)});

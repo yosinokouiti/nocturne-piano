@@ -1,0 +1,71 @@
+{
+  "verified_on": "2026-11-14",
+  "three_version": "r170",
+  "recording": {
+    "title": "The Open Goldberg Variations",
+    "creator": "Kimiko Ishizaka",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "files": [
+    {
+      "path": "dev/README.md",
+      "bytes": 683,
+      "sha256": "30fe37d1b3de096f0a592d218f66dfb16e465d359b895065ca6d51288f2bf1eb"
+    },
+    {
+      "path": "dev/THIRD_PARTY_NOTICES.md",
+      "bytes": 2200,
+      "sha256": "7c03a9a53d0650975266585c1e3a2a8aa2d4ce20945217699c73dcb62b70fab1"
+    },
+    {
+      "path": "dev/app.js",
+      "bytes": 16327,
+      "sha256": "95ea372fdeab0371039a07a23a84a350f2f755718bc967bd3f1bed88f76ff592"
+    },
+    {
+      "path": "dev/cat.js",
+      "bytes": 2694,
+      "sha256": "ebdc9bd1c0e6bbdaa0f12d86e35e0a6b81bd76e79033dcacf4fc2dd42f22e481"
+    },
+    {
+      "path": "dev/core.js",
+      "bytes": 6990,
+      "sha256": "df76131e35b323547c0c8dba0e228aa3d4cdeab40486387da6c6611f74434c20"
+    },
+    {
+      "path": "dev/index.html",
+      "bytes": 9350,
+      "sha256": "29dd5a18743d346afc9367922fc5c8950792e6ba0f495ca992b5987a61044aa8"
+    },
+    {
+      "path": "dev/music.js",
+      "bytes": 3077,
+      "sha256": "6f3276c47cc32809fa6227163e45ee8208349091803a0e2137dbf6ec080f97b2"
+    },
+    {
+      "path": "dev/style.css",
+      "bytes": 12357,
+      "sha256": "5d42d5f6ea04b97ab5ab53caf3318b569d5392a7d4e03408a536c48b3a1644b2"
+    },
+    {
+      "path": "dev/tracks.json",
+      "bytes": 6625,
+      "sha256": "46275be658d34d15f238c2bbcb7397d6949b730b57ee436a480dbdf6dc6c922b"
+    },
+    {
+      "path": "dev/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "dev/vendor/three.module.min.js",
+      "bytes": 691648,
+      "sha256": "08fd7545d13d2c7fb65ab691530a802dafefd638596501854f267d0fb13c39e7"
+    },
+    {
+      "path": "dev/world.js",
+      "bytes": 13879,
+      "sha256": "df6c72a899b2986da21642467fe4f2e852cd77cdf7c275deac039aa116172231"
+    }
+  ]
+}
