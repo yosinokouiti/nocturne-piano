@@ -32,6 +32,8 @@ Checks include 3D initialisation, no page/runtime/shader errors, no horizontal o
 
 A real cross-origin MP3 from the released CC0 recording played successfully through the Web Audio analyser. The first track reported duration 299.52 seconds and a non-zero audio energy reading. Seeking to its end advanced to track 2 and resumed playback. The full 82-minute album was not listened through end to end. Other tracks are catalogued from the same archive's metadata; their download availability has not all been individually verified.
 
+Additional browser checks passed for a blocked 3D module (static fallback with playable music/puzzle), defeat results, match restart and pause. The GitHub Pages publication succeeded; the live HTML hash matched the validated local HTML.
+
 ## Limits
 
 Viewport emulation uses Chromium, not Safari or actual iPhone/iPad hardware. No claim of real-device frame rate, battery life, thermal stability or full assistive-technology compatibility is made. No subjective listening evaluation or commercial-release-level play-testing has been completed. The external audio host remains a runtime dependency. This is an independent, playable development edition.

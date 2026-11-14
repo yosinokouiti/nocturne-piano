@@ -19,13 +19,13 @@
     },
     {
       "path": "dev/app.js",
-      "bytes": 16327,
-      "sha256": "95ea372fdeab0371039a07a23a84a350f2f755718bc967bd3f1bed88f76ff592"
+      "bytes": 16840,
+      "sha256": "8437c90da855dbe765024a7cf51c6109e1be28552bdd97c1f46fd8b2ac569ec1"
     },
     {
       "path": "dev/cat.js",
-      "bytes": 2694,
-      "sha256": "ebdc9bd1c0e6bbdaa0f12d86e35e0a6b81bd76e79033dcacf4fc2dd42f22e481"
+      "bytes": 2861,
+      "sha256": "ecfdc1703a2b14bcc8dd5b1d5377b1d04d8db8d94b9408efafea236be5eb6480"
     },
     {
       "path": "dev/core.js",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dev/world.js",
-      "bytes": 13879,
-      "sha256": "df6c72a899b2986da21642467fe4f2e852cd77cdf7c275deac039aa116172231"
+      "bytes": 13892,
+      "sha256": "3b39fc92a7c93ceaf141677065cba3f34d0728807a33f670bf1ed3beb6171076"
     }
   ]
 }
