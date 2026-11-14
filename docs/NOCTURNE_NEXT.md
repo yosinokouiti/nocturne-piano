@@ -1,4 +1,4 @@
-# Moonlit Garden — independent development edition 0.1
+# Moonlit Garden — independent development edition 0.2
 
 ## Preservation and publishing
 
@@ -36,3 +36,9 @@ From this directory: `npm test`. Serve with `python3 -m http.server 4173`, then 
 This is a playable development edition, not a claim of shipping-quality parity with a commercial indie game. The cat has procedural animation and rule-based autonomy, not a photorealistic scanned model or a trained animal policy. Human play-testing and tuning remain necessary. Browser responsive checks are not a substitute for real iPhone/iPad Safari profiling, thermal/battery tests or accessibility review. Audio streams from Internet Archive; it is not an offline soundtrack. No online multiplayer or cloud saves are provided.
 
 WebGL failure falls back to a static scene while keeping music and the puzzle available. Context loss reports an actionable message. Visibility changes pause the match and audio. Reduced-motion and lower-quality modes are offered; portrait and tablet layouts use touch targets and capped render resolution. Offscreen 3D rendering and board drawing are suspended while cat time and match logic remain independent. Trust gradually changes how often the cat approaches and the garden's firefly glow. The older root app remains the stable choice during development.
+
+## Luna care and play (0.2)
+
+Eight activities are available below the garden: food, water, ball, feather wand, scratching post, cushion rest, three-stop exploration and stretching. Props and animations are original geometry. Travel and arrival are separate from eating/drinking/resting, so needs change at the destination rather than on a button press. The wand target can be moved by tapping the garden; ball play follows a bouncing toy and includes timed paw taps. Food and water left out can be chosen autonomously later.
+
+Satiety and hydration are gentle local preferences, not a neglect/death mechanic. Sleepiness can decline toy play, fullness can leave a prepared portion for later, and a stop action returns the cat to its own routine. Chain celebrations preserve care tasks. Energy, satiety, hydration and familiarity are stored locally with backwards-compatible restoration; away time restores rest without draining needs. No new network services or third-party assets are introduced.

@@ -2,7 +2,7 @@
 
 ## Automated rules and behaviour checks
 
-`npm test` passes 12 tests:
+`npm test` passes 22 tests (12 game/core checks and 10 Luna-care checks):
 
 - identical pair streams for identical seeds;
 - orthogonal four-piece group detection;
@@ -37,3 +37,9 @@ Additional browser checks passed for a blocked 3D module (static fallback with p
 ## Limits
 
 Viewport emulation uses Chromium, not Safari or actual iPhone/iPad hardware. No claim of real-device frame rate, battery life, thermal stability or full assistive-technology compatibility is made. No subjective listening evaluation or commercial-release-level play-testing has been completed. The external audio host remains a runtime dependency. This is an independent, playable development edition.
+
+## Luna activities (development 0.2)
+
+Additional deterministic tests cover arrival before eating, hydration recovery, autonomous use of prepared food, cushion rest, declining play when sleepy, scratching/stretching/exploration completion, bounded toy sessions, cancellation, preserving care during chain celebrations, and safe needs restoration including zero values. The activities introduce no new third-party resources.
+
+`tests/luna-browser.cjs` passed at 390 × 844 and 820 × 1180 in touch-enabled Chromium. All eight activity buttons, wand target taps, cancellation, physical travel/eating, needs recovery, reload persistence and no horizontal overflow/runtime/shader errors were checked. The phone layout screenshot was inspected. These remain emulated viewports, not real iOS hardware tests.

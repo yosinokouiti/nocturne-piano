@@ -1,0 +1,14 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {CatMind,STATIONS} from '../dev/cat.js';
+const tick=(cat,seconds)=>{for(let i=0;i<seconds*60;i++)cat.update(1/60,.25,0)};
+test('food is eaten only after reaching the bowl, then the portion is consumed',()=>{let c=new CatMind(()=>.4);c.command('food');assert.equal(c.state,'travel');assert(c.foodAvailable);let initial=c.satiety;tick(c,20);assert(c.history.includes('eat'));assert(c.satiety>initial+.3);assert(!c.foodAvailable)});
+test('water restores hydration at the water station',()=>{let c=new CatMind(()=>.4);c.hydration=.3;c.command('water');tick(c,20);assert(c.history.includes('drink'));assert(c.hydration>.8);assert(!c.waterAvailable)});
+test('the cat can find prepared food by itself',()=>{let c=new CatMind(()=>.4);c.satiety=.25;c.foodAvailable=true;c.choose(0);assert.equal(c.activity,'food');assert.deepEqual(c.target,STATIONS.food);tick(c,18);assert(c.history.includes('eat'))});
+test('resting uses the cushion and recovers energy',()=>{let c=new CatMind(()=>.4);c.energy=.15;c.command('rest');tick(c,45);assert(c.history.includes('sleep'));assert(c.energy>.8)});
+test('a sleepy cat declines toys without losing a pending care activity',()=>{let c=new CatMind(()=>.4);c.energy=.1;c.command('rest');let state=c.state;assert(c.command('wand').includes('眠'));assert.equal(c.activity,'rest');assert.equal(c.state,state)});
+test('scratch, stretch and exploration have distinct completed action paths',()=>{let c=new CatMind(()=>.4);c.command('scratch');tick(c,18);assert(c.history.includes('scratch'));c.command('stretch');assert.equal(c.state,'stretch');tick(c,5);assert.equal(c.activity,null);c.command('explore');tick(c,40);assert(c.visits>=3);assert.equal(c.activity,null)});
+test('toy chase includes a pounce and is time-bounded',()=>{let c=new CatMind(()=>.4);c.command('ball');c.target={x:c.x,z:c.z};tick(c,2);assert(c.history.includes('pounce'));tick(c,26);assert.equal(c.activity,null)});
+test('cancel and petting leave no delayed action that can restart a toy',()=>{let c=new CatMind(()=>.4);c.command('wand');c.pet();tick(c,.5);assert.equal(c.activity,null);assert.equal(c.state,'nuzzle');c.command('food');c.command('stop');assert.equal(c.arrival,null);assert.equal(c.activity,null);assert.equal(c.state,'sit')});
+test('celebrating a chain does not interrupt eating or care navigation',()=>{let c=new CatMind(()=>.4);c.command('water');c.celebrate(4);assert.equal(c.activity,'water');assert.equal(c.state,'travel')});
+test('needs and familiarity restore safely, including legitimate zero values',()=>{let c=new CatMind();c.restore({trust:0,energy:.1,satiety:0,hydration:0,at:1000},1000);assert.equal(c.trust,0);assert.equal(c.satiety,0);let snapshot=c.snapshot(),other=new CatMind();other.restore(snapshot,snapshot.at+3600000);assert(other.energy>=.39);other.restore({energy:NaN,trust:Infinity});assert(Number.isFinite(other.energy)&&Number.isFinite(other.trust))});

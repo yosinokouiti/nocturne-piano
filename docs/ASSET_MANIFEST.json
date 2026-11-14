@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "dev/README.md",
-      "bytes": 683,
-      "sha256": "30fe37d1b3de096f0a592d218f66dfb16e465d359b895065ca6d51288f2bf1eb"
+      "bytes": 846,
+      "sha256": "365150b3d105b6a1462c9a6b27b5e742f69e35b7237b0d184234b84910d6f98d"
     },
     {
       "path": "dev/THIRD_PARTY_NOTICES.md",
@@ -19,13 +19,13 @@
     },
     {
       "path": "dev/app.js",
-      "bytes": 16840,
-      "sha256": "8437c90da855dbe765024a7cf51c6109e1be28552bdd97c1f46fd8b2ac569ec1"
+      "bytes": 18246,
+      "sha256": "7a295ec0dc3db7df9f8747dc6eedc991901574fb1f226552c28486253087cc21"
     },
     {
       "path": "dev/cat.js",
-      "bytes": 2861,
-      "sha256": "ecfdc1703a2b14bcc8dd5b1d5377b1d04d8db8d94b9408efafea236be5eb6480"
+      "bytes": 7421,
+      "sha256": "f10ad941b69b55207ae87d2daf30a8dca6e35576737284d4252832fcca5c786c"
     },
     {
       "path": "dev/core.js",
@@ -34,8 +34,8 @@
     },
     {
       "path": "dev/index.html",
-      "bytes": 9350,
-      "sha256": "29dd5a18743d346afc9367922fc5c8950792e6ba0f495ca992b5987a61044aa8"
+      "bytes": 11119,
+      "sha256": "320000a885cb66cd12f27b911908218ac74130fc0ffef54c016a9fca928da2b7"
     },
     {
       "path": "dev/music.js",
@@ -44,8 +44,8 @@
     },
     {
       "path": "dev/style.css",
-      "bytes": 12357,
-      "sha256": "5d42d5f6ea04b97ab5ab53caf3318b569d5392a7d4e03408a536c48b3a1644b2"
+      "bytes": 14287,
+      "sha256": "18e0f08578dfbb166b0cdd6d7a4465e52a1105fa6a60c9aee2d19391a5fdd0f3"
     },
     {
       "path": "dev/tracks.json",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dev/world.js",
-      "bytes": 13892,
-      "sha256": "3b39fc92a7c93ceaf141677065cba3f34d0728807a33f670bf1ed3beb6171076"
+      "bytes": 18699,
+      "sha256": "314730453e9243b4841999e5167aba0034262a581ec40ba4bcd2749784dc33d4"
     }
   ]
 }
