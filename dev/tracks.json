@@ -2,161 +2,628 @@
   {
     "title": "Aria — アリア",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_01_-_Aria.mp3",
-    "duration": 299.54
+    "duration": 299.54,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 1 — 第1変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_02_-_Variatio_1_a_1_Clav.mp3",
-    "duration": 115.51
+    "duration": 115.51,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 2 — 第2変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_03_-_Variatio_2_a_1_Clav.mp3",
-    "duration": 123.79
+    "duration": 123.79,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 3 — 第3変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_04_-_Variatio_3_a_1_Clav_Canone_allUnisuono.mp3",
-    "duration": 116.81
+    "duration": 116.81,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 4 — 第4変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_05_-_Variatio_4_a_1_Clav.mp3",
-    "duration": 68.62
+    "duration": 68.62,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 5 — 第5変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_06_-_Variatio_5_a_1_ovvero_2_Clav.mp3",
-    "duration": 94.24
+    "duration": 94.24,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 6 — 第6変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_07_-_Variatio_6_a_1_Clav_Canone_alla_Seconda.mp3",
-    "duration": 98.14
+    "duration": 98.14,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 7 — 第7変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_08_-_Variatio_7_a_1_ovvero_2_Clav.mp3",
-    "duration": 132.28
+    "duration": 132.28,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 8 — 第8変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_09_-_Variatio_8_a_2_Clav.mp3",
-    "duration": 116.55
+    "duration": 116.55,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 9 — 第9変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_10_-_Variatio_9_a_1_Clav_Canone_alla_Terza.mp3",
-    "duration": 126.27
+    "duration": 126.27,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 10 — 第10変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_11_-_Variatio_10_a_1_Clav_Fughetta.mp3",
-    "duration": 105.79
+    "duration": 105.79,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 11 — 第11変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_12_-_Variatio_11_a_2_Clav.mp3",
-    "duration": 129.12
+    "duration": 129.12,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 12 — 第12変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_13_-_Variatio_12_Canone_alla_Quarta.mp3",
-    "duration": 135.94
+    "duration": 135.94,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 13 — 第13変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_14_-_Variatio_13_a_2_Clav.mp3",
-    "duration": 254.48
+    "duration": 254.48,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 14 — 第14変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_15_-_Variatio_14_a_2_Clav.mp3",
-    "duration": 136.77
+    "duration": 136.77,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 15 — 第15変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_16_-_Variatio_15_a_1_Clav_Canone_alla_Quinta.mp3",
-    "duration": 272.53
+    "duration": 272.53,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 16 — 第16変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_17_-_Variatio_16_a_1_Clav_Ouverture.mp3",
-    "duration": 188.7
+    "duration": 188.7,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 17 — 第17変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_18_-_Variatio_17_a_2_Clav.mp3",
-    "duration": 104.38
+    "duration": 104.38,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 18 — 第18変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_19_-_Variatio_18_a_1_Clav_Canone_alla_Sexta.mp3",
-    "duration": 109.32
+    "duration": 109.32,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 19 — 第19変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_20_-_Variatio_19_a_1_Clav.mp3",
-    "duration": 85.05
+    "duration": 85.05,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 20 — 第20変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_21_-_Variatio_20_a_2_Clav.mp3",
-    "duration": 125.28
+    "duration": 125.28,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 21 — 第21変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_22_-_Variatio_21_Canone_alla_Settima.mp3",
-    "duration": 234.55
+    "duration": 234.55,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 22 — 第22変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_23_-_Variatio_22_a_1_Clav.mp3",
-    "duration": 92.68
+    "duration": 92.68,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 23 — 第23変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_24_-_Variatio_23_a_2_Clav.mp3",
-    "duration": 139.7
+    "duration": 139.7,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 24 — 第24変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_25_-_Variatio_24_a_1_Clav_Canone_allOttava.mp3",
-    "duration": 165.51
+    "duration": 165.51,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 25 — 第25変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_26_-_Variatio_25_a_2_Clav.mp3",
-    "duration": 558.34
+    "duration": 558.34,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 26 — 第26変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_27_-_Variatio_26_a_2_Clav.mp3",
-    "duration": 122.8
+    "duration": 122.8,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 27 — 第27変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_28_-_Variatio_27_a_2_Clav_Canone_alla_Nona.mp3",
-    "duration": 111.43
+    "duration": 111.43,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 28 — 第28変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_29_-_Variatio_28_a_2_Clav.mp3",
-    "duration": 146.1
+    "duration": 146.1,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 29 — 第29変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_30_-_Variatio_29_a_1_ovvero_2_Clav.mp3",
-    "duration": 129.09
+    "duration": 129.09,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Variatio 30 — 第30変奏",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_31_-_Variatio_30_a_1_Clav_Quodlibet.mp3",
-    "duration": 121.26
+    "duration": 121.26,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
   },
   {
     "title": "Aria da Capo — アリア・ダ・カーポ",
     "url": "https://archive.org/download/The_Open_Goldberg_Variations-11823/Kimiko_Ishizaka_-_32_-_Aria_da_Capo__Fine.mp3",
-    "duration": 170.16
+    "duration": 170.16,
+    "category": "piano",
+    "artist": "Kimiko Ishizaka",
+    "composer": "J. S. Bach",
+    "album": "ゴルトベルク変奏曲 BWV 988",
+    "license": "CC0 1.0",
+    "source": "https://opengoldbergvariations.org/"
+  },
+  {
+    "title": "モーツァルト：フィガロの結婚 序曲",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "フィガロの結婚 序曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_MarriageOfFigaro/WolfgangAmadeusMozart-MarriageOfFigaro.mp3",
+    "duration": 241.0
+  },
+  {
+    "title": "モーツァルト：魔笛 序曲",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "魔笛 序曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_MagicFluteOverture/WolfgangAmadeusMozart-MagicFluteOverture.mp3",
+    "duration": 400.0
+  },
+  {
+    "title": "モーツァルト：交響曲第40番 — 第1楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "交響曲第40番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-01-MoltoAllegro.mp3",
+    "duration": 358.0
+  },
+  {
+    "title": "モーツァルト：交響曲第40番 — 第2楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "交響曲第40番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-02-Andante.mp3",
+    "duration": 456.0
+  },
+  {
+    "title": "モーツァルト：交響曲第40番 — 第3楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "交響曲第40番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-03-MenuettoAllegretto.mp3",
+    "duration": 272.0
+  },
+  {
+    "title": "モーツァルト：交響曲第40番 — 第4楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "モーツァルト",
+    "album": "交響曲第40番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-04-AllegroAssai.mp3",
+    "duration": 284.0
+  },
+  {
+    "title": "ベートーヴェン：コリオラン 序曲",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "コリオラン 序曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_CoriolanOverture/LudwigVanBeethoven-CoriolanOverture.mp3",
+    "duration": 498.0
+  },
+  {
+    "title": "ベートーヴェン：エグモント 序曲",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "エグモント 序曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_EgmontOvertureOp.84/LudwigVanBeethoven-EgmontOvertureOp.84.mp3",
+    "duration": 540.0
+  },
+  {
+    "title": "ベートーヴェン：交響曲第3番《英雄》 — 第1楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "交響曲第3番《英雄》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-01-AllegroConBrio.mp3",
+    "duration": 911.0
+  },
+  {
+    "title": "ベートーヴェン：交響曲第3番《英雄》 — 第2楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "交響曲第3番《英雄》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-02-MarciaFunebreAdagioAssai.mp3",
+    "duration": 928.0
+  },
+  {
+    "title": "ベートーヴェン：交響曲第3番《英雄》 — 第3楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "交響曲第3番《英雄》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-03-ScherzoAllegroVivace.mp3",
+    "duration": 349.0
+  },
+  {
+    "title": "ベートーヴェン：交響曲第3番《英雄》 — 第4楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ベートーヴェン",
+    "album": "交響曲第3番《英雄》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-04-FinaleAllegroMolto.mp3",
+    "duration": 704.0
+  },
+  {
+    "title": "グリーグ：ペール・ギュント 第1組曲 — 朝",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "グリーグ",
+    "album": "ペール・ギュント 第1組曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-01-Morning.mp3",
+    "duration": 229.0
+  },
+  {
+    "title": "グリーグ：ペール・ギュント 第1組曲 — オーゼの死",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "グリーグ",
+    "album": "ペール・ギュント 第1組曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-02-AasesDeath.mp3",
+    "duration": 273.0
+  },
+  {
+    "title": "グリーグ：ペール・ギュント 第1組曲 — アニトラの踊り",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "グリーグ",
+    "album": "ペール・ギュント 第1組曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-03-AnitrasDream.mp3",
+    "duration": 239.0
+  },
+  {
+    "title": "グリーグ：ペール・ギュント 第1組曲 — 山の魔王の宮殿にて",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "グリーグ",
+    "album": "ペール・ギュント 第1組曲",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-04-InTheHallOfTheMountainKing.mp3",
+    "duration": 154.0
+  },
+  {
+    "title": "スメタナ：モルダウ",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "スメタナ",
+    "album": "モルダウ",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Smetana_Vltava/BedichSmetana-MVlast-Vltava.mp3",
+    "duration": 770.0
+  },
+  {
+    "title": "ブラームス：交響曲第4番 — 第1楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ブラームス",
+    "album": "交響曲第4番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-01-AllegroNonTroppo.mp3",
+    "duration": 760.0
+  },
+  {
+    "title": "ブラームス：交響曲第4番 — 第2楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ブラームス",
+    "album": "交響曲第4番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-02-AndanteModerato.mp3",
+    "duration": 674.0
+  },
+  {
+    "title": "ブラームス：交響曲第4番 — 第3楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ブラームス",
+    "album": "交響曲第4番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-03-AllegroGiocoso.mp3",
+    "duration": 379.0
+  },
+  {
+    "title": "ブラームス：交響曲第4番 — 第4楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "ブラームス",
+    "album": "交響曲第4番",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-04-AllegroEnergicoEPassionato.mp3",
+    "duration": 667.0
+  },
+  {
+    "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第1楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "チャイコフスキー",
+    "album": "交響曲第6番《悲愴》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-01-AdagioAllegroNonTroppo.mp3",
+    "duration": 1051.0
+  },
+  {
+    "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第2楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "チャイコフスキー",
+    "album": "交響曲第6番《悲愴》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-02-AllegroConGracia.mp3",
+    "duration": 496.0
+  },
+  {
+    "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第3楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "チャイコフスキー",
+    "album": "交響曲第6番《悲愴》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-03-AllegroMoltoVivace.mp3",
+    "duration": 593.0
+  },
+  {
+    "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第4楽章",
+    "artist": "Musopen Symphony Orchestra",
+    "composer": "チャイコフスキー",
+    "album": "交響曲第6番《悲愴》",
+    "category": "orchestra",
+    "license": "Public Domain Mark 1.0",
+    "source": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-04-FinaleAdagioLamentoso.mp3",
+    "duration": 619.0
   }
 ]

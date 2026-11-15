@@ -2,7 +2,7 @@
 
 ## Automated rules and behaviour checks
 
-`npm test` passes 22 tests (12 game/core checks and 10 Luna-care checks):
+`npm test` passes 25 tests (12 game/core checks, 10 Luna-care checks and 3 music/catalog checks):
 
 - identical pair streams for identical seeds;
 - orthogonal four-piece group detection;
@@ -43,3 +43,11 @@ Viewport emulation uses Chromium, not Safari or actual iPhone/iPad hardware. No 
 Additional deterministic tests cover arrival before eating, hydration recovery, autonomous use of prepared food, cushion rest, declining play when sleepy, scratching/stretching/exploration completion, bounded toy sessions, cancellation, preserving care during chain celebrations, and safe needs restoration including zero values. The activities introduce no new third-party resources.
 
 `tests/luna-browser.cjs` passed at 390 × 844 and 820 × 1180 in touch-enabled Chromium. All eight activity buttons, wand target taps, cancellation, physical travel/eating, needs recovery, reload persistence and no horizontal overflow/runtime/shader errors were checked. The phone layout screenshot was inspected. These remain emulated viewports, not real iOS hardware tests.
+
+## Expanded music (development 0.3)
+
+Music catalog checks cover the preserved 32 piano recordings, 25 orchestral recordings and all four movements of selected full symphonies, source/license metadata, official anime video IDs and local blob URL lifecycle (including files added before a slow catalog fetch resolves).
+
+The touch-browser music regression verified orchestral filtering/search, real playback of Mozart's Figaro overture (240.999979 seconds) and a non-zero analyser signal, the official YouTube iframe URL and visible controls/source link, switching without simultaneous native playback, playback/analysis of an in-memory 3-second WAV, no upload requests for that local playback, explicit clearing and no horizontal overflow/runtime errors. Actual anime-video playback was not asserted: it is controlled by YouTube and may be unavailable in a given region or testing network. All external recordings are streamed; no claim of end-to-end listening verification for every track is made.
+
+The four-viewport browser regression was rerun after the music expansion and passed with 57 native tracks, including the existing cat, match controls, pause/resume, listening mode, reduced-motion/quality preferences and piano track continuation.

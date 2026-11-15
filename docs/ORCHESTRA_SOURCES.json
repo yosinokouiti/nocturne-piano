@@ -1,0 +1,207 @@
+{
+  "rights_statement": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+  "archive_metadata": "https://archive.org/metadata/MusopenCollectionAsFlac",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "recordings": [
+    {
+      "title": "モーツァルト：フィガロの結婚 序曲",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_MarriageOfFigaro/WolfgangAmadeusMozart-MarriageOfFigaro.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 241.0
+    },
+    {
+      "title": "モーツァルト：魔笛 序曲",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_MagicFluteOverture/WolfgangAmadeusMozart-MagicFluteOverture.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 400.0
+    },
+    {
+      "title": "モーツァルト：交響曲第40番 — 第1楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-01-MoltoAllegro.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 358.0
+    },
+    {
+      "title": "モーツァルト：交響曲第40番 — 第2楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-02-Andante.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 456.0
+    },
+    {
+      "title": "モーツァルト：交響曲第40番 — 第3楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-03-MenuettoAllegretto.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 272.0
+    },
+    {
+      "title": "モーツァルト：交響曲第40番 — 第4楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Mozart_SymphonyNo.40inGMinor/WolfgangAmadeusMozart-SymphonyNo.40InGMinorK.550-04-AllegroAssai.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 284.0
+    },
+    {
+      "title": "ベートーヴェン：コリオラン 序曲",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_CoriolanOverture/LudwigVanBeethoven-CoriolanOverture.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 498.0
+    },
+    {
+      "title": "ベートーヴェン：エグモント 序曲",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_EgmontOvertureOp.84/LudwigVanBeethoven-EgmontOvertureOp.84.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 540.0
+    },
+    {
+      "title": "ベートーヴェン：交響曲第3番《英雄》 — 第1楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-01-AllegroConBrio.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 911.0
+    },
+    {
+      "title": "ベートーヴェン：交響曲第3番《英雄》 — 第2楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-02-MarciaFunebreAdagioAssai.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 928.0
+    },
+    {
+      "title": "ベートーヴェン：交響曲第3番《英雄》 — 第3楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-03-ScherzoAllegroVivace.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 349.0
+    },
+    {
+      "title": "ベートーヴェン：交響曲第3番《英雄》 — 第4楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Beethoven_SymphonyNo.3Eroica/LudwigVanBeethoven-SymphonyNo.3InEFlatMajorEroicaOp.55-04-FinaleAllegroMolto.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 704.0
+    },
+    {
+      "title": "グリーグ：ペール・ギュント 第1組曲 — 朝",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-01-Morning.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 229.0
+    },
+    {
+      "title": "グリーグ：ペール・ギュント 第1組曲 — オーゼの死",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-02-AasesDeath.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 273.0
+    },
+    {
+      "title": "グリーグ：ペール・ギュント 第1組曲 — アニトラの踊り",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-03-AnitrasDream.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 239.0
+    },
+    {
+      "title": "グリーグ：ペール・ギュント 第1組曲 — 山の魔王の宮殿にて",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Greig_PeerGynt/EdvardGrieg-PeerGyntSuiteNo.1Op.46-04-InTheHallOfTheMountainKing.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 154.0
+    },
+    {
+      "title": "スメタナ：モルダウ",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Smetana_Vltava/BedichSmetana-MVlast-Vltava.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 770.0
+    },
+    {
+      "title": "ブラームス：交響曲第4番 — 第1楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-01-AllegroNonTroppo.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 760.0
+    },
+    {
+      "title": "ブラームス：交響曲第4番 — 第2楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-02-AndanteModerato.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 674.0
+    },
+    {
+      "title": "ブラームス：交響曲第4番 — 第3楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-03-AllegroGiocoso.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 379.0
+    },
+    {
+      "title": "ブラームス：交響曲第4番 — 第4楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Brahms_SymphonyNo.4inEMinor/JohannesBrahms-SymphonyNo.4InEMinorOp.98-04-AllegroEnergicoEPassionato.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 667.0
+    },
+    {
+      "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第1楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-01-AdagioAllegroNonTroppo.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 1051.0
+    },
+    {
+      "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第2楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-02-AllegroConGracia.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 496.0
+    },
+    {
+      "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第3楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-03-AllegroMoltoVivace.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 593.0
+    },
+    {
+      "title": "チャイコフスキー：交響曲第6番《悲愴》 — 第4楽章",
+      "url": "https://archive.org/download/MusopenCollectionAsFlac/Tchaikovsky_SymphonyPathetique/PyotrIlyichTchaikovsky-SymphonyNo.6InBMinorOp.74pathtique-04-FinaleAdagioLamentoso.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "cors": "*",
+      "duration": 619.0
+    }
+  ]
+}

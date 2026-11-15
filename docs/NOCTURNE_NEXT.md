@@ -1,4 +1,4 @@
-# Moonlit Garden — independent development edition 0.2
+# Moonlit Garden — independent development edition 0.3
 
 ## Preservation and publishing
 
@@ -42,3 +42,13 @@ WebGL failure falls back to a static scene while keeping music and the puzzle av
 Eight activities are available below the garden: food, water, ball, feather wand, scratching post, cushion rest, three-stop exploration and stretching. Props and animations are original geometry. Travel and arrival are separate from eating/drinking/resting, so needs change at the destination rather than on a button press. The wand target can be moved by tapping the garden; ball play follows a bouncing toy and includes timed paw taps. Food and water left out can be chosen autonomously later.
 
 Satiety and hydration are gentle local preferences, not a neglect/death mechanic. Sleepiness can decline toy play, fullness can leave a prepared portion for later, and a stop action returns the cat to its own routine. Chain celebrations preserve care tasks. Energy, satiety, hydration and familiarity are stored locally with backwards-compatible restoration; away time restores rest without draining needs. No new network services or third-party assets are introduced.
+
+## Music library (0.3)
+
+The native library now contains 57 complete recordings/movements: 32 Ishizaka piano tracks and 25 Musopen orchestral tracks (214:05 additional audio). Filtering and search separate piano, orchestra, official anime videos and device files. Performer/composer/source/license are recorded per built-in audio track.
+
+Two official anime-song videos are presented through a normal, visible YouTube player. Selecting a video pauses native audio; selecting native audio closes the video. The game does not auto-start native audio while a video is selected. Leaving the page closes the video. Native timeline/previous/next controls are disabled in video mode, and the native volume control is labelled separately. The video cannot feed the audio-reactive scene; this is stated in the interface. If a user supplies a playable local audio file, it can use the native analyser without any upload.
+
+Local files use blob URLs and do not survive a page reload. Their URLs are revoked on explicit clearing, and a local file added during a slow catalog fetch is retained. No music-conversion, unlicensed orchestration, audio extraction from streaming services or backend is introduced.
+
+All 25 added orchestral URLs were checked with HTTP HEAD and returned status 200. Content types and CORS headers are retained in `ORCHESTRA_SOURCES.json`.

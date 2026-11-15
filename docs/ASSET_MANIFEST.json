@@ -9,18 +9,23 @@
   "files": [
     {
       "path": "dev/README.md",
-      "bytes": 846,
-      "sha256": "365150b3d105b6a1462c9a6b27b5e742f69e35b7237b0d184234b84910d6f98d"
+      "bytes": 1083,
+      "sha256": "18cb50f7e61fcf40551d4b6e18eabf6988bdda0329987bab055e63d26ab87df5"
     },
     {
       "path": "dev/THIRD_PARTY_NOTICES.md",
-      "bytes": 2200,
-      "sha256": "7c03a9a53d0650975266585c1e3a2a8aa2d4ce20945217699c73dcb62b70fab1"
+      "bytes": 4778,
+      "sha256": "1f012065d7b44acb1a27412efbd0c9d734fb5c3e10c6fe129ae8a2eccc56cceb"
+    },
+    {
+      "path": "dev/anime.json",
+      "bytes": 536,
+      "sha256": "18d9e4807dd43298ebb37041afd430ef0222a19da79304e7eab2297dd42c1a42"
     },
     {
       "path": "dev/app.js",
-      "bytes": 18252,
-      "sha256": "11da9728ea07f464ac57cbc0c2a8ebad882f060fbc9550dcb599a7240d9374e0"
+      "bytes": 22684,
+      "sha256": "e648ad6e67ca99e65bfb81f1b058138b3c9f07c54b6416a90b68781524d19b63"
     },
     {
       "path": "dev/cat.js",
@@ -34,23 +39,23 @@
     },
     {
       "path": "dev/index.html",
-      "bytes": 11131,
-      "sha256": "4ba255ff7b7b85c66860b3c9332b5ac9afb81b7e42857b19d359483103b404b3"
+      "bytes": 13906,
+      "sha256": "18370a6fa29f3375b1211d644b850ff6f40e9b33f593bf8da370d7a825e1f27b"
     },
     {
       "path": "dev/music.js",
-      "bytes": 3077,
-      "sha256": "6f3276c47cc32809fa6227163e45ee8208349091803a0e2137dbf6ec080f97b2"
+      "bytes": 4673,
+      "sha256": "91d1a4cd93adf22e6ea92df4f1c4df3fd0d1ddabc64abc87ec63d7853e86bbe3"
     },
     {
       "path": "dev/style.css",
-      "bytes": 14287,
-      "sha256": "18e0f08578dfbb166b0cdd6d7a4465e52a1105fa6a60c9aee2d19391a5fdd0f3"
+      "bytes": 16222,
+      "sha256": "832935723314b451cb00c7da006e1b91027443e4754cb516ed95daca1b9ba16c"
     },
     {
       "path": "dev/tracks.json",
-      "bytes": 6625,
-      "sha256": "46275be658d34d15f238c2bbcb7397d6949b730b57ee436a480dbdf6dc6c922b"
+      "bytes": 27114,
+      "sha256": "beb0f9ef119f94634b949813f656028e8ea4e60ce6555e0a4e546b921cb7e9dd"
     },
     {
       "path": "dev/vendor/THREE-LICENSE.txt",
@@ -67,5 +72,33 @@
       "bytes": 18705,
       "sha256": "a481dd1ff4066ca9b708bc93989c837cd250fdb01b10d811f4e1d4c735d234f8"
     }
-  ]
+  ],
+  "orchestral_recordings": {
+    "count": 25,
+    "performer": "Musopen Symphony Orchestra",
+    "rights_statement": "https://musopen.org/blog/musopen-kickstarter-project-1-complete/",
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "availability_evidence": "ORCHESTRA_SOURCES.json"
+  },
+  "anime": {
+    "mode": "official YouTube embeds only; not rehosted",
+    "entries": [
+      {
+        "title": "アイドル",
+        "artist": "YOASOBI",
+        "anime": "【推しの子】",
+        "videoId": "ZRtdQ81jPUQ",
+        "url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+        "source": "https://www.yoasobi-music.jp/news/551361"
+      },
+      {
+        "title": "ピースサイン",
+        "artist": "米津玄師",
+        "anime": "僕のヒーローアカデミア",
+        "videoId": "9aJVr5tTTWk",
+        "url": "https://www.youtube.com/watch?v=9aJVr5tTTWk",
+        "source": "https://reissuerecords.net/2024/10/18/peacesign_mv_300million/"
+      }
+    ]
+  }
 }
